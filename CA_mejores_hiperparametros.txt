@@ -1,0 +1,2 @@
+num_leaves	min_data_in_leaf	AUC	num_iterations
+256	64	0.955409683187461	399
